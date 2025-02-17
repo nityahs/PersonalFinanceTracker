@@ -5,3 +5,4 @@ Managing personal finances effectively is crucial for financial stability. The P
  Enable users to log expenses and income with categorized details.
  Allow users to set monthly budgets and monitor spending habits.
  Offer data-driven insights and analytics to improve financial planning.
+# E-R Diagram
